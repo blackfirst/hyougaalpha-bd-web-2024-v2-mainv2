@@ -7,18 +7,6 @@ Website for posting a wish well to [HyougaAlpha](https://www.youtube.com/@Hyouga
 
 <!-- Production Website : [https://bakubirthday2023.vtuberthaiinfo.com/](https://bakubirthday2023.vtuberthaiinfo.com/) -->
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
 Open [https://hyouga-birthday-2024.circusnexuscarnival.live/](https://hyouga-birthday-2024.circusnexuscarnival.live/) with your browser to see the result.
 
 
