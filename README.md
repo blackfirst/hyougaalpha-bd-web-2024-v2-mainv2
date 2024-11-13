@@ -14,5 +14,5 @@ Open [https://hyouga-birthday-2024.circusnexuscarnival.live/](https://hyouga-bir
 
 - [Original Project](https://github.com/RikiNozomu/baku-bd-static-2023)
 - Hyougabyte ฝ่ายIT
-- Emotional support - Hyougabyte
+- Emotional support - HyougaAlpha & Hyougabyte
 
