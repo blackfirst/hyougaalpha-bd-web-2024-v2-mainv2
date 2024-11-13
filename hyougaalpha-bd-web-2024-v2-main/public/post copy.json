@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "",
+      "name": "",
+      "comment": "",
+      "giftId": "",
+      "createdAt": "",
+      "updatedAt": "",
+      "gift": {
+        "id": "",
+        "name": "",
+        "desc": "",
+        "imgURL": "",
+        "bgColorCode": "",
+        "borderColor": "",
+        "order": 1
+      }
+    }
+  ],
+  "total": 1
+}
